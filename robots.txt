@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-USERNAME.github.io/borhan-uddin/sitemap.xml
+Sitemap: https://borhanuddin01-1.github.io/borhan-uddin/sitemap.xml
